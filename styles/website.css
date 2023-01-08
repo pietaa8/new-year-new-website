@@ -78,14 +78,14 @@
     text-align: center;
     color: cadetblue;
     gap: 10px;
-    margin-bottom: 10px
+    margin-bottom: 10px;
     
 }
 .plannings{
     margin-bottom: 70px;
     display: flex;
     gap: 15px;
-    margin-bottom: 10px
+    margin-bottom: 10px;
 
 }
 .plans-items{
@@ -94,7 +94,8 @@
     background: whitesmoke;
     padding: 5px 15px;
     gap: 10px;
-    margin-bottom: 10px
+    margin-bottom: 10px;
+    break-after: always;
     
 }
 .item-title{
@@ -103,7 +104,8 @@
     text-align: center;
     color: black;
     gap: 10px;
-    margin-bottom: 10px
+    margin-bottom: 10px;
+    break-after: always;
 
 }
 .item{
@@ -111,6 +113,7 @@
     font-size: 35px;
     text-align: center;
     color: sienna;
+    break-after: always;
 }
 .advice{
     margin: 130px 130px; 
