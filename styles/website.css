@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    margin: 50px;
+    background-image: url('../images/banner/banner2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.banner-text{
+
+}
+.title{
+    padding: 300px 150px 35px 400px;
+    font-weight: 700;
+    font-size: 20px;
+    color: aquamarine;
+    
+}
+.paragraph{
+    padding: 0px 50px 35px 400px;
+    font-weight: 300;
+    font-size: 17px;
+    color: gray;
+}
+.btn-primary{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 40px 15px;
+    height: 54px;
+    border-radius: 5px;
+    background-color: darkolivegreen;
+    border-radius: 5px;
+    padding: 10px 25px 10px 26px; 
+    margin:  10px 85px 300px 155px;
+}
+.failures{
+    margin-top: 130px;
+    display: flex;
+    gap: 50px;
+    text-align: left;
+    padding: 13px 25px;
+    border-radius: 10px;
+    background: wheat;
+}
+.image{
+
+}
+.about{
+    margin: auto 15px;
+}
+.section-title{
+    font-weight: 600;
+    font-size: 40px;
+    color: black;
+}
+.section-para{
+    margin-top: 35px;
+    font-weight: 600;
+    font-size: 20px;
+    color: ghostwhite;
+    margin-bottom: 30px;
+}
+.plans{
+    list-style-type: square;
+    font-weight: 600;
+    font-size: 20px;
+    color: silver;
+
+}
+.section-title{
+    margin-top: 130px;
+    text-align: center;
+    color: cadetblue;
+
+}
+.plannings{
+    margin-bottom: 70px;
+    display: flex;
+    gap: 15px;
+
+}
+.plans-items{
+    margin-top: 22px;
+    display: flex;
+    background: khaki;
+    padding: 10px 300px;
+    gap: 30px;
+}
+.item{
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    color: beige;
+}
+.advice{
+    margin: 130px 130px; 
+}
+.advice-items{
+    margin: 130px 130px;
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background: linear-gradient(90deg, rgb(188, 177, 218));
+
+}
+.advice-title{
+    padding: 50px 60px 0px 70px;
+    font-weight: 600;
+    font-size: 35px;
+    color: aliceblue;
+}
+.advice-btn{
+    padding: 25px 55px;
+    margin: 24px 700px 35px 90opx;
+    font-weight: 700;
+    font-size: 20px;
+    color: mediumpurple;
+}
+
+.future{
+    display: flex;
+    gap: 150px;
+    background: palegoldenrod;
+    padding: 130px 200px;
+}
+.future .section-title{
+    text-align: left;
+}
+.future input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 64px;
+}
+
+.future a{
+    text-decoration: none;
+}
+
