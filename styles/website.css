@@ -36,7 +36,7 @@
     background-color: darkolivegreen;
     border-radius: 5px;
     padding: 10px 25px 10px 26px; 
-    margin:  10px 85px 300px 155px;
+    margin:  10px 15px 30px 500px;
 }
 .failures{
     margin-top: 130px;
@@ -66,36 +66,51 @@
     margin-bottom: 30px;
 }
 .plans{
-    list-style-type: square;
-    font-weight: 600;
+   font-weight: 600;
     font-size: 20px;
     color: silver;
+    gap: 10px;
+    margin-bottom: 10px;
 
 }
 .section-title{
-    margin-top: 130px;
+   margin-top: 130px;
     text-align: center;
     color: cadetblue;
-
+    gap: 10px;
+    margin-bottom: 10px
+    
 }
 .plannings{
     margin-bottom: 70px;
     display: flex;
     gap: 15px;
+    margin-bottom: 10px
 
 }
 .plans-items{
     margin-top: 22px;
     display: flex;
-    background: khaki;
-    padding: 10px 300px;
-    gap: 30px;
+    background: whitesmoke;
+    padding: 5px 15px;
+    gap: 10px;
+    margin-bottom: 10px
+    
+}
+.item-title{
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    color: black;
+    gap: 10px;
+    margin-bottom: 10px
+
 }
 .item{
     font-weight: 600;
     font-size: 35px;
     text-align: center;
-    color: beige;
+    color: sienna;
 }
 .advice{
     margin: 130px 130px; 
